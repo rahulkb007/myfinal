@@ -10,5 +10,5 @@
 	 
 	ADD . /usr/local/helloworld
 	
-	CMD ["java", "-cp", "/usr/local/helloworld/target/helloworld-1.0.jar", "HelloWorld"]
+	CMD ["java", "-cp", "/usr/local/helloworld/target/basic-maven-example-1.0-SNAPSHOT.jar", "HelloWorld"]
 
